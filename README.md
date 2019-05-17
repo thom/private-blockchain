@@ -8,8 +8,8 @@ To setup the project for review do the following:
 1. Download the project.
 2. Run command __npm install__ to install the project dependencies.
 3. Run command __node SimpleChain.js__ in the root directory:
-** Execute __SimpleChain.js__ with parameter __-i__ to initialize the chain
-** Parameter __-t__ executes the tests
+   a. Execute __SimpleChain.js__ with parameter __-i__ to initialize the chain
+   b. Parameter __-t__ executes the tests
 
 ## Testing the project
 
