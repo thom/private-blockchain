@@ -1,4 +1,4 @@
-# Project 2: Private Blockchain
+# Udacity Blockchain Developer Nanodegree Program - Project 2: Private Blockchain
 
 In this project I created the classes to manage my private blockchain, to be able to persist my blockchain I used LevelDB.
 
