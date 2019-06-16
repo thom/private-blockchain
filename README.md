@@ -24,3 +24,8 @@ Graded according to the [Project Rubric](https://review.udacity.com/#!/rubrics/2
 * I was able to identify the basic data model for a Blockchain application
 * I was able to use LevelDB to persist the Blockchain data
 * I was able to write algorithms for basic operations in the Blockchain
+
+## License
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+- Copyright 2019 © <a href="https://github.com/thom" target="_blank">Thomas Weibel</a>.
